@@ -1,0 +1,7 @@
+SPHINCS.py keygen [--secret-key FILE] [--public-key FILE]
+    
+SPHINCS.py sign [-m FILE|--message FILE] [--secret-key FILE] [-s FILE|--signature FILE]
+    
+SPHINCS.py verify [-m FILE|--message FILE] [-s FILE|--signature FILE] [--public-key FILE]
+    
+SPHINCS.py (-h|--help)
